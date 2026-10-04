@@ -1,0 +1,7 @@
+STOCK_CODE,FIELD,OLD_VALUE,NEW_VALUE,SOURCE
+NHG-1002-L,BARCODE,5060123400055,5060123400052,shopify (invalid check digit)
+NHG-1005,BARCODE,5.06012E+12,5060123400083,shopify (damaged (scientific notation))
+NHG-3002-SGE,BARCODE,5.06012E+12,5060123400168,shopify (damaged (scientific notation))
+NHG-3004,BARCODE,5.06012E+12,5060123400199,shopify (damaged (scientific notation))
+NHG-3007,BARCODE,5060123400243,5060123400250,amazon (shared with another stock code)
+NHG-3011,BARCODE,5.06012E+12,5060123400304,shopify (damaged (scientific notation))

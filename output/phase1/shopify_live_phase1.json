@@ -1,0 +1,758 @@
+[
+ {
+  "id": 7626051269731,
+  "title": "Folding Pruning Saw",
+  "handle": "pruning-saw",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7785353836850,
+    "sku": "NHG-1003",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "11.94",
+    "compare_at_price": null,
+    "barcode": "5060123400069",
+    "grams": 300,
+    "inventory_item_id": 7275879997390,
+    "inventory_quantity": 12
+   }
+  ]
+ },
+ {
+  "id": 7025542388438,
+  "title": "Grow Your Own: A Beginner's Guide (Book)",
+  "handle": "grow-your-own-guide",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7775862849981,
+    "sku": "NHG-2005",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "9.99",
+    "compare_at_price": null,
+    "barcode": "5060123400137",
+    "grams": 450,
+    "inventory_item_id": 7517297185854,
+    "inventory_quantity": 20
+   }
+  ]
+ },
+ {
+  "id": 7367987086081,
+  "title": "Jute Garden Twine 150m",
+  "handle": "garden-twine",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7638410713307,
+    "sku": "NHG-3007",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "3.48",
+    "compare_at_price": null,
+    "barcode": "5060123400250",
+    "grams": 200,
+    "inventory_item_id": 7209086013604,
+    "inventory_quantity": 58
+   }
+  ]
+ },
+ {
+  "id": 7658153851543,
+  "title": "Raised Bed Kit",
+  "handle": "raised-bed-kit",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Size"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7787170486550,
+    "sku": "NHG-3009-1M",
+    "title": "1m",
+    "option1": "1m",
+    "price": "44.99",
+    "compare_at_price": null,
+    "barcode": "5060123400274",
+    "grams": 14000,
+    "inventory_item_id": 7173426464264,
+    "inventory_quantity": 6
+   },
+   {
+    "id": 7478466587125,
+    "sku": "NHG-3009-2M",
+    "title": "2m",
+    "option1": "2m",
+    "price": "69.99",
+    "compare_at_price": null,
+    "barcode": "5060123400281",
+    "grams": 22000,
+    "inventory_item_id": 7676288636418,
+    "inventory_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 7270763500059,
+  "title": "Foam Garden Kneeler",
+  "handle": "foam-garden-kneeler",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Colour"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7647269521150,
+    "sku": "NHG-3002-GRY",
+    "title": "Grey",
+    "option1": "Grey",
+    "price": "5.99",
+    "compare_at_price": null,
+    "barcode": "5060123400151",
+    "grams": 250,
+    "inventory_item_id": 7445891891948,
+    "inventory_quantity": 0
+   },
+   {
+    "id": 7261123777585,
+    "sku": "NHG-3002-SGE",
+    "title": "Sage",
+    "option1": "Sage",
+    "price": "5.99",
+    "compare_at_price": null,
+    "barcode": "5060123400168",
+    "grams": 250,
+    "inventory_item_id": 7422620225738,
+    "inventory_quantity": 16
+   }
+  ]
+ },
+ {
+  "id": 7035283969633,
+  "title": "Rain Gauge",
+  "handle": "rain-gauge",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7694970518572,
+    "sku": "NHG-3011",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "4.50",
+    "compare_at_price": null,
+    "barcode": "5060123400304",
+    "grams": 100,
+    "inventory_item_id": 7961792426942,
+    "inventory_quantity": 23
+   }
+  ]
+ },
+ {
+  "id": 7081685930856,
+  "title": "All-Purpose Plant Food 1L",
+  "handle": "plant-food",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7045440835264,
+    "sku": "NHG-3012",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "6.49",
+    "compare_at_price": null,
+    "barcode": "5060123400311",
+    "grams": 1100,
+    "inventory_item_id": 7667429979867,
+    "inventory_quantity": 30
+   }
+  ]
+ },
+ {
+  "id": 7132574199343,
+  "title": "Classic Watering Can 9L",
+  "handle": "classic-watering-can",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Colour"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7138647298850,
+    "sku": "NHG-1001-BLU",
+    "title": "Blue",
+    "option1": "Blue",
+    "price": "22.99",
+    "compare_at_price": null,
+    "barcode": "5060123400014",
+    "grams": 900,
+    "inventory_item_id": 7589716301227,
+    "inventory_quantity": 19
+   },
+   {
+    "id": 7977078717789,
+    "sku": "NHG-1001-GRN",
+    "title": "Green",
+    "option1": "Green",
+    "price": "22.99",
+    "compare_at_price": null,
+    "barcode": "5060123400021",
+    "grams": 900,
+    "inventory_item_id": 7683843008903,
+    "inventory_quantity": 9
+   },
+   {
+    "id": 7941387867381,
+    "sku": "NHG-1001-RED",
+    "title": "Red",
+    "option1": "Red",
+    "price": "22.99",
+    "compare_at_price": null,
+    "barcode": "5060123400038",
+    "grams": 900,
+    "inventory_item_id": 7220666016796,
+    "inventory_quantity": 0
+   }
+  ]
+ },
+ {
+  "id": 7223238861047,
+  "title": "Parsley Seeds (Moss Curled)",
+  "handle": "parsley-seeds",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7348172876410,
+    "sku": "NHG-2003",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "2.49",
+    "compare_at_price": null,
+    "barcode": "5060123400113",
+    "grams": 20,
+    "inventory_item_id": 7117769176398,
+    "inventory_quantity": 118
+   }
+  ]
+ },
+ {
+  "id": 7191854431992,
+  "title": "Rattan Solar Lantern",
+  "handle": "rattan-solar-lantern",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7684551792173,
+    "sku": "NHG-3010",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "14.88",
+    "compare_at_price": null,
+    "barcode": "5060123400298",
+    "grams": 800,
+    "inventory_item_id": 7108544139128,
+    "inventory_quantity": 14
+   }
+  ]
+ },
+ {
+  "id": 7496929467627,
+  "title": "Herb Starter Kit",
+  "handle": "herb-starter-kit",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7008550457600,
+    "sku": "NHG-KIT-01",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "21.60",
+    "compare_at_price": null,
+    "barcode": "5060123400328",
+    "grams": 3300,
+    "inventory_item_id": 7601044401813,
+    "inventory_quantity": 12
+   }
+  ]
+ },
+ {
+  "id": 7817390762199,
+  "title": "Long-Handled Bulb Planter",
+  "handle": "bulb-planter",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7426252788255,
+    "sku": "NHG-1004",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "14.99",
+    "compare_at_price": null,
+    "barcode": "5060123400076",
+    "grams": 1100,
+    "inventory_item_id": 7339973176358,
+    "inventory_quantity": 7
+   }
+  ]
+ },
+ {
+  "id": 7080108497096,
+  "title": "Wildflower Seed Mix 100g",
+  "handle": "wildflower-seed-mix",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7888260780412,
+    "sku": "NHG-2004",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "6.50",
+    "compare_at_price": null,
+    "barcode": "5060123400120",
+    "grams": 120,
+    "inventory_item_id": 7555975179438,
+    "inventory_quantity": 36
+   }
+  ]
+ },
+ {
+  "id": 7497269232298,
+  "title": "Compost Bin 330L",
+  "handle": "compost-bin",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7835940641645,
+    "sku": "NHG-3004",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "34.99",
+    "compare_at_price": null,
+    "barcode": "5060123400199",
+    "grams": 6500,
+    "inventory_item_id": 7737100219458,
+    "inventory_quantity": 4
+   }
+  ]
+ },
+ {
+  "id": 7900650458530,
+  "title": "Leather Gardening Gloves",
+  "handle": "leather-gardening-gloves",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Size"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7267414079967,
+    "sku": "NHG-3005-S",
+    "title": "S",
+    "option1": "S",
+    "price": "9.90",
+    "compare_at_price": null,
+    "barcode": "5060123400205",
+    "grams": 150,
+    "inventory_item_id": 7423048606905,
+    "inventory_quantity": 10
+   },
+   {
+    "id": 7907878130498,
+    "sku": "NHG-3005-M",
+    "title": "M",
+    "option1": "M",
+    "price": "9.90",
+    "compare_at_price": null,
+    "barcode": "5060123400212",
+    "grams": 150,
+    "inventory_item_id": 7008199488874,
+    "inventory_quantity": 26
+   },
+   {
+    "id": 7340170155309,
+    "sku": "NHG-3005-L",
+    "title": "L",
+    "option1": "L",
+    "price": "9.90",
+    "compare_at_price": null,
+    "barcode": "5060123400229",
+    "grams": 160,
+    "inventory_item_id": 7433257673931,
+    "inventory_quantity": 18
+   },
+   {
+    "id": 7191354724631,
+    "sku": "NHG-3005-XL",
+    "title": "XL",
+    "option1": "XL",
+    "price": "9.90",
+    "compare_at_price": null,
+    "barcode": "5060123400236",
+    "grams": 170,
+    "inventory_item_id": 7571572172250,
+    "inventory_quantity": 0
+   }
+  ]
+ },
+ {
+  "id": 7835481891928,
+  "title": "Coriander Seeds (Calypso)",
+  "handle": "coriander-seeds",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7069533598565,
+    "sku": "NHG-2002",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "2.49",
+    "compare_at_price": null,
+    "barcode": "5060123400106",
+    "grams": 20,
+    "inventory_item_id": 7896000869644,
+    "inventory_quantity": 88
+   }
+  ]
+ },
+ {
+  "id": 7207485414573,
+  "title": "Slate Plant Labels - 10 Pack",
+  "handle": "slate-plant-labels-10-pack",
+  "status": "archived",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7405677289514,
+    "sku": "NHG-3006",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "6.49",
+    "compare_at_price": null,
+    "barcode": "5060123400243",
+    "grams": 350,
+    "inventory_item_id": 7003841650537,
+    "inventory_quantity": 12
+   }
+  ]
+ },
+ {
+  "id": 7050496171641,
+  "title": "Bypass Secateurs",
+  "handle": "bypass-secateurs",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Size"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7557103970529,
+    "sku": "NHG-1002-S",
+    "title": "Small",
+    "option1": "Small",
+    "price": "13.99",
+    "compare_at_price": null,
+    "barcode": "5060123400045",
+    "grams": 200,
+    "inventory_item_id": 7819797024929,
+    "inventory_quantity": 24
+   },
+   {
+    "id": 7508471076561,
+    "sku": "NHG-1002-L",
+    "title": "Large",
+    "option1": "Large",
+    "price": "15.00",
+    "compare_at_price": null,
+    "barcode": "5060123400052",
+    "grams": 250,
+    "inventory_item_id": 7072432316695,
+    "inventory_quantity": 14
+   }
+  ]
+ },
+ {
+  "id": 7817656209959,
+  "title": "Slate Plant Labels (Pack of 10)",
+  "handle": "slate-plant-labels",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7184494622366,
+    "sku": "NHG-3006",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "7.99",
+    "compare_at_price": null,
+    "barcode": "5060123400243",
+    "grams": 350,
+    "inventory_item_id": 7475469846471,
+    "inventory_quantity": 40
+   }
+  ]
+ },
+ {
+  "id": 7251198827310,
+  "title": "Hanging Bird Feeder",
+  "handle": "hanging-bird-feeder",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Size"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7093004658745,
+    "sku": "NHG-3003-S",
+    "title": "Small",
+    "option1": "Small",
+    "price": "8.64",
+    "compare_at_price": null,
+    "barcode": "5060123400175",
+    "grams": 400,
+    "inventory_item_id": 7524146776528,
+    "inventory_quantity": 24
+   },
+   {
+    "id": 7787581156926,
+    "sku": "NHG-3003-L",
+    "title": "Large",
+    "option1": "Large",
+    "price": "12.96",
+    "compare_at_price": null,
+    "barcode": "5060123400182",
+    "grams": 700,
+    "inventory_item_id": 7977554274608,
+    "inventory_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 7352310114757,
+  "title": "Seed Tray Set (5 Trays)",
+  "handle": "seed-tray-set",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7988501357586,
+    "sku": "NHG-3008",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "8.16",
+    "compare_at_price": null,
+    "barcode": "5060123400267",
+    "grams": 600,
+    "inventory_item_id": 7556976354958,
+    "inventory_quantity": 0
+   }
+  ]
+ },
+ {
+  "id": 7553267388624,
+  "title": "Hose Reel 30m",
+  "handle": "hose-reel",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7109835132815,
+    "sku": "NHG-1005",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "39.99",
+    "compare_at_price": null,
+    "barcode": "5060123400083",
+    "grams": 4800,
+    "inventory_item_id": 7659472549682,
+    "inventory_quantity": 4
+   }
+  ]
+ },
+ {
+  "id": 7655017785284,
+  "title": "Basil Seeds (Sweet Genovese)",
+  "handle": "basil-seeds",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7341522264953,
+    "sku": "NHG-2001",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "2.49",
+    "compare_at_price": null,
+    "barcode": "5060123400090",
+    "grams": 20,
+    "inventory_item_id": 7770051638258,
+    "inventory_quantity": 128
+   }
+  ]
+ },
+ {
+  "id": 7427405110388,
+  "title": "Terracotta Herb Trough 60cm",
+  "handle": "terracotta-trough",
+  "status": "active",
+  "product_type": "Garden",
+  "vendor": "Northfield",
+  "options": [
+   {
+    "name": "Title"
+   }
+  ],
+  "variants": [
+   {
+    "id": 7245115304831,
+    "sku": "NHG-3001",
+    "title": "Default Title",
+    "option1": "Default Title",
+    "price": "16.20",
+    "compare_at_price": null,
+    "barcode": "5060123400144",
+    "grams": 3200,
+    "inventory_item_id": 7051646761030,
+    "inventory_quantity": 12
+   }
+  ]
+ }
+]

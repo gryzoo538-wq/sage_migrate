@@ -1,0 +1,32 @@
+supplier,part_ref,description,MAP,source_scan
+HART01,HM-BP-LH,Long-Handled Bulb Planter,16.99,HART01_MAP_update.pdf (supersedes HART01_pricelist_autumn2026.pdf)
+HART01,HM-HR30,Hose Reel 30m,39.99,HART01_pricelist_autumn2026.pdf
+HART01,HM-WC9-R,Classic Watering Can 9L Red,24.99,HART01_MAP_update.pdf (supersedes HART01_pricelist_autumn2026.pdf)
+HART01,HM-SEC-S,Bypass Secateurs Small,15.49,HART01_MAP_update.pdf (supersedes HART01_pricelist_autumn2026.pdf)
+HART01,HM-WC9-B,Classic Watering Can 9L Blue,24.99,HART01_MAP_update.pdf (supersedes HART01_pricelist_autumn2026.pdf)
+HART01,HM-SAW-F,Folding Pruning Saw,—,HART01_pricelist_autumn2026.pdf
+HART01,HM-WC9-G,Classic Watering Can 9L Green,24.99,HART01_MAP_update.pdf (supersedes HART01_pricelist_autumn2026.pdf)
+HART01,HM-SEC-L,Bypass Secateurs Large,14.99,HART01_pricelist_autumn2026.pdf
+GREEN02,GS-BK-GYO,Grow Your Own: A Beginner's Guide,9.99,GREEN02_pricelist.pdf
+GREEN02,GS-COR-01,Coriander Seeds (Calypso),2.49,GREEN02_pricelist.pdf
+GREEN02,GS-WFM-100,Wildflower Seed Mix 100g,—,GREEN02_pricelist.pdf
+GREEN02,GS-PAR-01,Parsley Seeds (Moss Curled),2.49,GREEN02_pricelist.pdf
+GREEN02,GS-BAS-01,Basil Seeds (Sweet Genovese),2.49,GREEN02_pricelist.pdf
+OAKF03,OGS-CB330,Compost Bin 330L,34.99,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-GL-XL,Leather Gardening Gloves XL,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-BF-L,Hanging Bird Feeder Large,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-BF-S,Hanging Bird Feeder Small,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-PF1,All-Purpose Plant Food 1L,6.49,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-RSL,Rattan Solar Lantern,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-TT60,Terracotta Herb Trough 60cm,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-RG,Rain Gauge,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-KN-GY,Foam Garden Kneeler Grey,5.99,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-RB-2,Raised Bed Kit 2m,69.99,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-JT150,Jute Garden Twine 150m,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-KN-SG,Foam Garden Kneeler Sage,5.99,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-STS5,Seed Tray Set (5 Trays),—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-GL-S,Leather Gardening Gloves S,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-SPL10,Slate Plant Labels (Pack of 10),7.99,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-GL-L,Leather Gardening Gloves L,—,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-RB-1,Raised Bed Kit 1m,44.99,OAKF03_trade_list_2026.pdf
+OAKF03,OGS-GL-M,Leather Gardening Gloves M,—,OAKF03_trade_list_2026.pdf
