@@ -1,0 +1,7 @@
+sku	fnsku	asin	product-name	condition	afn-fulfillable-quantity	afn-inbound-shipped-quantity
+NHG-1001-BLU-FBA	X005231462	B028735277	Classic Watering Can 9L	New	18	6
+NHG-1002-S-FBA	X009818571	B074299232	Bypass Secateurs	New	0	0
+NHG-1005-FBA	X004558304	B059086748	Hose Reel 30m	New	5	0
+NHG-3002-GRY-FBA	X007186739	B090712606	Foam Garden Kneeler	New	22	0
+NHG-3003-L-FBA	X009127865	B087999224	Hanging Bird Feeder	New	9	0
+NHG-3005-M-FBA	X006167001	B028628762	Leather Gardening Gloves	New	31	6

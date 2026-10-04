@@ -1,0 +1,4 @@
+tier,max_weight_kg,fee_gbp
+small,0.25,2.50
+standard,2.00,3.80
+large,999,6.20
